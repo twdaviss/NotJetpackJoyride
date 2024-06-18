@@ -3,45 +3,36 @@
 </p>
 
 ### Contributors:
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/0ac794c1-d76e-4cc7-be9f-8a6e3dc693dc) <a href = "github.com/twdaviss">twdaviss
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/c822852d-919a-49d6-b377-ee0781258936) <a href = "github.com/SleepingDragon0">SleepingDragon0
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/742280df-39a0-47c9-8665-f5733e589e7f) <a href = "github.com/LeahTaurisano">LeahTaurisano
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/7c19a2af-05cf-49fa-9c1e-d1d088b4a17c) <a href = "github.com/CultyMarble">CultyMarble
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/859b874c-3a0c-44f5-9062-506bad1ea22e) <a href = "github.com/PhiBeo">PhiBeo
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/3ddd6336-0f50-485b-8698-ac1541474f4a) <a href = "github.com/MiguelAyala25">MiguelAyala25
-![image](https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/f2c4675a-b38a-4551-8ac2-e0234ec5df36) <a href = "github.com/NicholasOkovic">NicholasOkovic
-<br>
-
-<div align="center">
+<div align="left">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar1" width="50">
-        <br><span>Caption 1</span>
+        <a href = "https://github.com/twdaviss"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/0ac794c1-d76e-4cc7-be9f-8a6e3dc693dc" alt="avatar1" width="50">
+        <br><span>Twdaviss</span>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar2" width="50">
-        <br><span>Caption 2</span>
+        <a href = "https://github.com/SleepingDragon0"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/c822852d-919a-49d6-b377-ee0781258936" alt="avatar2" width="50">
+        <br><span>SleepingDragon0</span>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar3" width="50">
-        <br><span>Caption 3</span>
+        <a href = "https://github.com/LeahTaurisano"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/742280df-39a0-47c9-8665-f5733e589e7f" alt="avatar3" width="50">
+        <br><span>LeahTaurisano</span>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar4" width="50">
-        <br><span>Caption 4</span>
+        <a href = "https://github.com/CultyMarble"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/7c19a2af-05cf-49fa-9c1e-d1d088b4a17c" alt="avatar4" width="50">
+        <br><span>CultyMarble</span>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar5" width="50">
-        <br><span>Caption 5</span>
+       <a href = "https://github.com/PhiBeo"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/859b874c-3a0c-44f5-9062-506bad1ea22e" alt="avatar5" width="50">
+        <br><span>PhiBeo</span>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar6" width="50">
-        <br><span>Caption 6</span>
+        <a href = "https://github.com/MiguelAyala25"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/3ddd6336-0f50-485b-8698-ac1541474f4a" alt="avatar6" width="50">
+        <br><span>MiguelAyala25</span>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="avatar7" width="50">
-        <br><span>Caption 7</span>
+        <a href = "https://github.com/NicholasOkovic"> <img src="https://github.com/NicholasOkovic/NotJetpackJoyride/assets/139954443/f2c4675a-b38a-4551-8ac2-e0234ec5df36" alt="avatar7" width="50">
+        <br><span>NicholasOkovic</span>
       </td>
     </tr>
   </table>
